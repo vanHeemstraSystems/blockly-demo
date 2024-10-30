@@ -1,19 +1,19 @@
 ब्लॉकली-डेमो
 
-# Blockly Demo
+# ब्लॉकली डेमो
 
 > स्लगलाइन
 
 -   [शब्दकोष](./GLOSSARY.md)
 -   [संदर्भ](./REFERENCES.md)
 
-**Executive Summary**
+**कार्यकारी सारांश**
 
-यह ब्लॉकली का डेमो है।
+This is a demo of Blockly.
 
-## 100 - परिचय
+## 100 - Introduction
 
-देखना[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - आवश्यकताएँ
 
@@ -21,7 +21,7 @@
 
 ## 300 - हमारे एप्लिकेशन का निर्माण
 
-See [README.md](./300/README.md)
+देखना[README.md](./300/README.md)
 
 ## 400 - निष्कर्ष
 
