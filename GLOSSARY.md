@@ -1,6 +1,6 @@
 # Glossary
 
-Blockly has a lot of vocabulary for its different visual components. This document breaks down some of the most important ones you need to know to get started with Blockly.
+[Blockly](https://developers.google.com/blockly) has a lot of vocabulary for its different visual components. This document breaks down some of the most important ones you need to know to get started with Blockly.
 
 ## Workspace
 
