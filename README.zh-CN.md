@@ -2,12 +2,12 @@
 
 # 块状演示
 
-> Slugline
+> 斯拉格莱恩
 
 -   [词汇表](./GLOSSARY.md)
--   [References](./REFERENCES.md)
+-   [参考](./REFERENCES.md)
 
-**Executive Summary**
+**执行摘要**
 
 这是 Blockly 的演示。
 
