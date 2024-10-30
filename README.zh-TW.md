@@ -1,4 +1,4 @@
-blockly-demo
+區塊式演示
 
 # 塊狀演示
 
@@ -11,7 +11,7 @@ blockly-demo
 
 這是 Blockly 的示範。
 
-## 100 - Introduction
+## 100 - 簡介
 
 看[README.md](./100/README.md)
 

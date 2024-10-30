@@ -9,7 +9,7 @@
 
 **执行摘要**
 
-This is a demo of Blockly.
+这是 Blockly 的演示。
 
 ## 100 - 简介
 
