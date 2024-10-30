@@ -1,11 +1,11 @@
 blockly-demo
 
-# Blockly Demo
+# عرض بلوكلي
 
 > سلوجلاين
 
 -   [مسرد](./GLOSSARY.md)
--   [References](./REFERENCES.md)
+-   [مراجع](./REFERENCES.md)
 
 **ملخص تنفيذي**
 
