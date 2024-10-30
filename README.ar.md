@@ -1,17 +1,17 @@
 blockly-demo
 
-# Blockly Demo
+# عرض بلوكلي
 
-> Slugline
+> سلوجلاين
 
 -   [Glossary](./GLOSSARY.md)
 -   [مراجع](./REFERENCES.md)
 
-**ملخص تنفيذي**
+**Executive Summary**
 
 هذا عرض توضيحي لـ Blockly.
 
-## 100 - Introduction
+## 100- مقدمة
 
 يرى[README.md](./100/README.md)
 
@@ -21,8 +21,8 @@ blockly-demo
 
 ## 300 – بناء تطبيقنا
 
-See [README.md](./300/README.md)
+يرى[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 - الخاتمة
 
 يرى[README.md](./400/README.md)
