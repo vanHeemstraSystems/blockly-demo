@@ -1,6 +1,6 @@
 demostración en bloque
 
-# Demostración en bloque
+# Blockly Demo
 
 > línea de bala
 
