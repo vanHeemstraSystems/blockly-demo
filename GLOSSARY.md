@@ -83,9 +83,9 @@ An [input](https://developers.google.com/blockly/guides/create-custom-blocks/inp
 
 | Input | Image |
 | --- | --- |
-| Dummy | ![image](https://github.com/user-attachments/assets/760bc248-ef94-4891-8c67-93f36f3d4bd2) |
+| Dummy | <img src="https://github.com/user-attachments/assets/760bc248-ef94-4891-8c67-93f36f3d4bd2" alt="dummy" style="width:45px;"/> |
 | Value | <img src="https://github.com/user-attachments/assets/8d993675-2eae-4807-9516-15d35f644e61" alt="value" style="width:45px;"/> |
-| Statement | ![image](https://github.com/user-attachments/assets/8dd362a6-8e46-4d80-a352-471de91c5354) |
+| Statement | <img src="https://github.com/user-attachments/assets/8dd362a6-8e46-4d80-a352-471de91c5354" alt="statement" style="width:45px;"/>) |
 
 ### Connections
 
