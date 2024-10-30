@@ -2,10 +2,10 @@ nombre-repositorio
 
 # Nombre del repositorio
 
-> línea de bala
+> Slugline
 >
-> -   [Glosario](./GLOSSARY.md)
-> -   [Referencias](./REFERENCES.md)
+> -   [Glossary](./GLOSSARY.md)
+> -   [References](./REFERENCES.md)
 
 **Resumen ejecutivo**
 
@@ -13,7 +13,7 @@ Texto
 
 ## 100 - Introducción
 
-Ver[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - Requisitos
 
@@ -21,7 +21,7 @@ Ver[README.md](./200/README.md)
 
 ## 300 - Construyendo nuestra aplicación
 
-Ver[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
 ## 400 - Conclusión
 
