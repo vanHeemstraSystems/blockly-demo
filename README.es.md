@@ -1,6 +1,6 @@
 demostración en bloque
 
-# Blockly Demo
+# Demostración en bloque
 
 > línea de bala
 
@@ -13,7 +13,7 @@ Esta es una demostración de Blockly.
 
 ## 100 - Introducción
 
-Ver[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - Requisitos
 
