@@ -18,7 +18,21 @@ The following code snippet shows the HTML for a statically sized injection div:
 
 ## 200 - Injection
 
-== WE ARE HERE == 
+Injection creates all of the HTML sub-elements that make up the UI of a workspace. It also does all of the initialization needed to get the workspace ready for use.
+
+The injection function can take in the ID of the injection div, or the injection div itself:
+
+```
+// Passes the ID.
+const workspace = Blockly.inject('blocklyDiv', { /* config */ });
+
+// Passes the injection div.
+const workspace = Blockly.inject(
+    document.getElementById('blocklyDiv'), { /* config */ });
+```
 
 ## 300 - Configuration
 
+The workspace can be configured with numerous options (such as layout and style) during injection.
+
+For more information about configuration options, see [Configuration options](https://developers.google.com/blockly/guides/configure/web/configuration_struct).
