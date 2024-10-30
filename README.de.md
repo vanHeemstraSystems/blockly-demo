@@ -4,8 +4,8 @@ Blockly-Demo
 
 > Slugline
 
--   [Glossar](./GLOSSARY.md)
--   [Referenzen](./REFERENCES.md)
+-   [Glossary](./GLOSSARY.md)
+-   [References](./REFERENCES.md)
 
 **Zusammenfassung**
 
