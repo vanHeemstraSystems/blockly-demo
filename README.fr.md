@@ -5,13 +5,13 @@ démo-blockly
 > Slugline
 
 -   [Glossaire](./GLOSSARY.md)
--   [Références](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 
 **Résumé exécutif**
 
 Ceci est une démo de Blockly.
 
-## 100 - Introduction
+## 100 - Présentation
 
 Voir[README.md](./100/README.md)
 
