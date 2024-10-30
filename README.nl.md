@@ -7,13 +7,13 @@ blockly-demo
 -   [Glossarium](./GLOSSARY.md)
 -   [Referenties](./REFERENCES.md)
 
-**Executive Summary**
+**Samenvatting**
 
 Dit is een demo van Blockly.
 
 ## 100 - Inleiding
 
-Zien[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - Vereisten
 
