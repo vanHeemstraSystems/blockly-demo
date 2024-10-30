@@ -9,7 +9,7 @@ Blockly-Demo
 
 **Zusammenfassung**
 
-Dies ist eine Demo von Blockly.
+This is a demo of Blockly.
 
 ## 100 - Einführung
 
