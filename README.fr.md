@@ -1,15 +1,15 @@
-nom du référentiel
+démo-blockly
 
-# Nom du référentiel
+# Démo Blockly
 
 > Slugline
->
-> -   [Glossaire](./GLOSSARY.md)
-> -   [Références](./REFERENCES.md)
+
+-   [Glossaire](./GLOSSARY.md)
+-   [Références](./REFERENCES.md)
 
 **Résumé exécutif**
 
-Texte
+Ceci est une démo de Blockly.
 
 ## 100 - Introduction
 
