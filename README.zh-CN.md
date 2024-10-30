@@ -2,10 +2,10 @@
 
 # 块状演示
 
-> 斯拉格莱恩
+> Slugline
 
 -   [词汇表](./GLOSSARY.md)
--   [参考](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 
 **Executive Summary**
 
