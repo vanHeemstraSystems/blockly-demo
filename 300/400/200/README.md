@@ -34,5 +34,8 @@ const toolbox = {
 const workspace = Blockly.inject('blocklyDiv', {toolbox: toolbox});
 ```
 
+![image](https://github.com/user-attachments/assets/35451bb7-5987-47b7-8a50-83e935d89f01)
 
-MORE
+For more information about how to define and configure your toolbox, see [Toolbox overview](https://developers.google.com/blockly/guides/configure/web/toolbox).
+
+For more information about injection, see [Workspace creation](https://developers.google.com/blockly/guides/get-started/workspace-creation).
