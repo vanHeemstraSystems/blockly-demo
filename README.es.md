@@ -1,15 +1,15 @@
-blockly-demo
+demostración en bloque
 
 # Demostración en bloque
 
-> Slugline
+> línea de bala
 
 -   [Glosario](./GLOSSARY.md)
 -   [Referencias](./REFERENCES.md)
 
 **Resumen ejecutivo**
 
-This is a demo of Blockly.
+Esta es una demostración de Blockly.
 
 ## 100 - Introducción
 
