@@ -5,13 +5,13 @@
 > 斯拉格萊恩
 
 -   [詞彙表](./GLOSSARY.md)
--   [參考](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 
 **執行摘要**
 
 這是 Blockly 的示範。
 
-## 100 - 簡介
+## 100 - Introduction
 
 看[README.md](./100/README.md)
 
@@ -21,7 +21,7 @@
 
 ## 300 - 建立我們的應用程式
 
-看[README.md](./300/README.md)
+See [README.md](./300/README.md)
 
 ## 400 - 結論
 
