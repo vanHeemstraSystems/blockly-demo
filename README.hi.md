@@ -9,7 +9,7 @@
 
 **कार्यकारी सारांश**
 
-यह ब्लॉकली का डेमो है।
+This is a demo of Blockly.
 
 ## 100 - परिचय
 
@@ -25,4 +25,4 @@
 
 ## 400 - निष्कर्ष
 
-देखना[README.md](./400/README.md)
+See [README.md](./400/README.md)
