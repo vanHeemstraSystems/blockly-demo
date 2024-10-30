@@ -7,7 +7,7 @@
 -   [词汇表](./GLOSSARY.md)
 -   [参考](./REFERENCES.md)
 
-**执行摘要**
+**Executive Summary**
 
 这是 Blockly 的演示。
 
