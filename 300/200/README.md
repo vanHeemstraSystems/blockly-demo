@@ -32,6 +32,40 @@ javascript.javascriptGenerator;
 
 ## Imports
 
+**Note**: Using imports of our package targets requires you to be using a bundler (like webpack), since Blockly is packaged as a UMD, rather than an ESM.
 
+```
+// Import Blockly core.
+import * as Blockly from 'blockly/core';
+// Import the default blocks.
+import * as libraryBlocks from 'blockly/blocks';
+// Import a generator.
+import {javascriptGenerator} from 'blockly/javascript';
+// Import a message file.
+import * as En from 'blockly/msg/en';
+```
 
-MORE
+When you import the message files, you also need to apply them.
+
+```
+Blockly.setLocale(En);
+```
+
+## Requires
+
+```
+// Require Blockly core.
+const Blockly = require('blockly/core');
+// Require the default blocks.
+const libraryBlocks = require('blockly/blocks');
+// Require a generator.
+const {javascriptGenerator} =  require('blockly/javascript');
+// Require a message file.
+const En = require('blockly/msg/en');
+```
+
+When you require the message files, you also need to apply them.
+
+```
+Blockly.setLocale(En);
+```
