@@ -61,6 +61,24 @@ The [context menu](https://developers.google.com/blockly/guides/configure/web/co
 
 A block stack is any collection of connected blocks. They could be connected horizontally or vertically.
 
+![image](https://github.com/user-attachments/assets/e1f7c922-80d8-4c2b-8908-76a6630eaad3)
+
+### Shadow block
+
+A shadow block is an editable but non-movable block connected to another block. You can drag non-shadow blocks on top of shadow blocks to overwrite them.
+
+![image](https://github.com/user-attachments/assets/7ff8e441-766b-465c-9f51-934f47c527a9)
+
+### Insertion marker
+
+An insertion marker is a preview of where a stack of blocks will be connected if it is dropped. It looks like a grey version of a block.
+
+![image](https://github.com/user-attachments/assets/032fa8a9-e2ff-471c-86fb-ff94892ffa4d)
+
+## Block parts
+
+Blocks have several different parts that you can edit and interact with to program.
+
 
 
 MORE
