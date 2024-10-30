@@ -1,8 +1,8 @@
 blockly-demo
 
-# Blockly Demo
+# Blokkerige demo
 
-> Slugline
+> Slaklijn
 
 -   [Glossarium](./GLOSSARY.md)
 -   [Referenties](./REFERENCES.md)
