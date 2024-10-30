@@ -5,7 +5,7 @@ démo-blockly
 > Slugline
 
 -   [Glossaire](./GLOSSARY.md)
--   [Références](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 
 **Résumé exécutif**
 
