@@ -8,11 +8,13 @@ The Blockly team recommends requiring Blockly through a package manager (like [N
 ## 100 - NPM
 
 ```bash
+$ cd blockly-demo
 $ npm install blockly --save
 ```
 
 ## 200 - Yarn
 
 ```bash
+$ cd blockly-demo
 $ yarn add blockly
 ```
