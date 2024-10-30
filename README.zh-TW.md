@@ -1,6 +1,6 @@
 區塊式演示
 
-# 塊狀演示
+# Blockly Demo
 
 > 斯拉格萊恩
 
@@ -9,17 +9,17 @@
 
 **執行摘要**
 
-這是 Blockly 的示範。
+This is a demo of Blockly.
 
-## 100 - 簡介
+## 100 - Introduction
 
 看[README.md](./100/README.md)
 
-## 200 - 要求
+## 200 - Requirements
 
 看[README.md](./200/README.md)
 
-## 300 - 建立我們的應用程式
+## 300 - Building Our Application
 
 看[README.md](./300/README.md)
 
