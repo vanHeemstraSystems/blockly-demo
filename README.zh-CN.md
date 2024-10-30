@@ -4,14 +4,14 @@
 
 > 斯拉格莱恩
 
--   [Glossary](./GLOSSARY.md)
+-   [词汇表](./GLOSSARY.md)
 -   [参考](./REFERENCES.md)
 
 **执行摘要**
 
 这是 Blockly 的演示。
 
-## 100 - Introduction
+## 100 - 简介
 
 看[README.md](./100/README.md)
 
