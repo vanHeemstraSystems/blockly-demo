@@ -4,10 +4,10 @@ blockly-demo
 
 > سلوجلاين
 
--   [Glossary](./GLOSSARY.md)
+-   [مسرد](./GLOSSARY.md)
 -   [مراجع](./REFERENCES.md)
 
-**Executive Summary**
+**ملخص تنفيذي**
 
 هذا عرض توضيحي لـ Blockly.
 
