@@ -1,19 +1,19 @@
-nombre-repositorio
+demostración en bloque
 
-# Nombre del repositorio
+# Demostración en bloque
 
-> Slugline
->
-> -   [Glossary](./GLOSSARY.md)
-> -   [References](./REFERENCES.md)
+> línea de bala
+
+-   [Glosario](./GLOSSARY.md)
+-   [Referencias](./REFERENCES.md)
 
 **Resumen ejecutivo**
 
-Texto
+Esta es una demostración de Blockly.
 
 ## 100 - Introducción
 
-See [README.md](./100/README.md)
+Ver[README.md](./100/README.md)
 
 ## 200 - Requisitos
 
@@ -21,7 +21,7 @@ Ver[README.md](./200/README.md)
 
 ## 300 - Construyendo nuestra aplicación
 
-See [README.md](./300/README.md)
+Ver[README.md](./300/README.md)
 
 ## 400 - Conclusión
 
