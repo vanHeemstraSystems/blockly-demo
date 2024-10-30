@@ -85,9 +85,21 @@ An [input](https://developers.google.com/blockly/guides/create-custom-blocks/inp
 | --- | --- |
 | Dummy | <img src="https://github.com/user-attachments/assets/760bc248-ef94-4891-8c67-93f36f3d4bd2" alt="dummy" style="width:45px;"/> |
 | Value | <img src="https://github.com/user-attachments/assets/8d993675-2eae-4807-9516-15d35f644e61" alt="value" style="width:45px;"/> |
-| Statement | <img src="https://github.com/user-attachments/assets/8dd362a6-8e46-4d80-a352-471de91c5354" alt="statement" style="width:45px;"/>) |
+| Statement | <img src="https://github.com/user-attachments/assets/8dd362a6-8e46-4d80-a352-471de91c5354" alt="statement" style="width:45px;"/> |
 
 ### Connections
+
+A [connection](https://developers.google.com/blockly/guides/create-custom-blocks/inputs/overview#connections) is a place on a block other blocks can connect to.
+
+| Connection | Image |
+| --- | --- |
+| Output | <img src="https://github.com/user-attachments/assets/2a32af27-2d09-4921-95e7-7164964223e2" alt="output" style="width:45px;"/> |
+| Input | <img src="https://github.com/user-attachments/assets/e9f2b70c-a307-4368-bcdf-f3c4f600a535" alt="input" style="width:45px;"/> |
+| Previous| <img src="https://github.com/user-attachments/assets/37d83a7f-4fb6-427e-8da0-dda7835cce95" alt="previous" style="width:45px;"/> |
+| Next | <img src="https://github.com/user-attachments/assets/58d8654c-77dc-40fa-bb30-3196692594f0" alt="next" style="width:45px;"/> |
+
+### Fields
+
 
 
 MORE
