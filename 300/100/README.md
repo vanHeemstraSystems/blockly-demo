@@ -4,3 +4,15 @@ The Blockly team recommends requiring Blockly through a package manager (like [N
 
 - It is easier to stay up to date with changes in Blockly
 - It encourages [using plugins](https://developers.google.com/blockly/guides/plugins/overview) instead of monkeypatching Blockly
+
+## 100 - NPM
+
+```bash
+$ npm install blockly --save
+```
+
+## 200 - Yarn
+
+```bash
+$ yarn add blockly
+```
