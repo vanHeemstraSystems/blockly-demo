@@ -7,7 +7,7 @@ blockly-demo
 -   [مسرد](./GLOSSARY.md)
 -   [مراجع](./REFERENCES.md)
 
-**Executive Summary**
+**ملخص تنفيذي**
 
 هذا عرض توضيحي لـ Blockly.
 
@@ -15,7 +15,7 @@ blockly-demo
 
 يرى[README.md](./100/README.md)
 
-## 200 - Requirements
+## 200 - المتطلبات
 
 يرى[README.md](./200/README.md)
 
