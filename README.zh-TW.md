@@ -11,9 +11,9 @@
 
 這是 Blockly 的示範。
 
-## 100 - Introduction
+## 100 - 簡介
 
-See [README.md](./100/README.md)
+看[README.md](./100/README.md)
 
 ## 200 - 要求
 
