@@ -1,15 +1,15 @@
-存储库名称
+块式演示
 
-# 存储库名称
+# 块状演示
 
 > 斯拉格莱恩
->
-> -   [词汇表](./GLOSSARY.md)
-> -   [参考](./REFERENCES.md)
+
+-   [词汇表](./GLOSSARY.md)
+-   [参考](./REFERENCES.md)
 
 **执行摘要**
 
-文本
+This is a demo of Blockly.
 
 ## 100 - 简介
 
@@ -23,6 +23,6 @@
 
 看[README.md](./300/README.md)
 
-## 400 - Conclusion
+## 400 - 结论
 
 看[README.md](./400/README.md)
