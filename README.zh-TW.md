@@ -9,7 +9,7 @@
 
 **執行摘要**
 
-This is a demo of Blockly.
+這是 Blockly 的示範。
 
 ## 100 - 簡介
 
