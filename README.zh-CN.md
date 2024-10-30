@@ -2,7 +2,7 @@
 
 # 块状演示
 
-> 斯拉格莱恩
+> Slugline
 
 -   [词汇表](./GLOSSARY.md)
 -   [参考](./REFERENCES.md)
@@ -13,7 +13,7 @@
 
 ## 100 - 简介
 
-看[README.md](./100/README.md)
+See [README.md](./100/README.md)
 
 ## 200 - 要求
 
