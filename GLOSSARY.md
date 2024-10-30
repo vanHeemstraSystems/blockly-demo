@@ -79,6 +79,15 @@ An insertion marker is a preview of where a stack of blocks will be connected if
 
 Blocks have several different parts that you can edit and interact with to program.
 
+### Inputs
+
+An [input](https://developers.google.com/blockly/guides/create-custom-blocks/inputs/overview#inputs) usually represents a row in a block.
+
+| Input | Image |
+| --- | --- |
+| Dummy | |
+| Value | |
+| Statement | |
 
 
 MORE
