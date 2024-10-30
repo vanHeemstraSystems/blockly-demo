@@ -1,4 +1,4 @@
-區塊式演示
+blockly-demo
 
 # 塊狀演示
 
@@ -7,7 +7,7 @@
 -   [詞彙表](./GLOSSARY.md)
 -   [參考](./REFERENCES.md)
 
-**執行摘要**
+**Executive Summary**
 
 這是 Blockly 的示範。
 
