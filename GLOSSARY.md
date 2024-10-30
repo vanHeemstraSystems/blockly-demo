@@ -100,6 +100,14 @@ A [connection](https://developers.google.com/blockly/guides/create-custom-blocks
 
 ### Fields
 
+A [field](https://developers.google.com/blockly/guides/create-custom-blocks/fields/overview) is a visual element that lives on a block. It could be editable (like a text input), or only informational (like a label). A field is always contained by an input.
 
+![image](https://github.com/user-attachments/assets/48068fba-1e56-42f6-b2c0-04e3caaf6f33)
 
-MORE
+### Icons
+
+An icon is a visual element that lives on a block. They always live in the top-start corner of the block, and they often create bubbles.
+
+![image](https://github.com/user-attachments/assets/9a29f796-7424-449f-8497-aceecad9f79f)
+
+![image](https://github.com/user-attachments/assets/9f7618ea-8834-49a1-bcba-c83775723026)
