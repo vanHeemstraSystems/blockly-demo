@@ -2,7 +2,7 @@ blockly-demo
 
 # عرض بلوكلي
 
-> سلوجلاين
+> Slugline
 
 -   [مسرد](./GLOSSARY.md)
 -   [مراجع](./REFERENCES.md)
@@ -19,10 +19,10 @@ blockly-demo
 
 يرى[README.md](./200/README.md)
 
-## 300 - Building Our Application
+## 300 – بناء تطبيقنا
 
 يرى[README.md](./300/README.md)
 
-## 400 - الخاتمة
+## 400 - Conclusion
 
 يرى[README.md](./400/README.md)
