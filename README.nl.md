@@ -5,7 +5,7 @@ blockly-demo
 > Slaklijn
 
 -   [Glossarium](./GLOSSARY.md)
--   [Referenties](./REFERENCES.md)
+-   [References](./REFERENCES.md)
 
 **Samenvatting**
 
